@@ -326,6 +326,15 @@ main {
     color:#fafafa;
 }
 
+/* Gallery page */
+#photo img {
+    width: 100%;
+    line-break: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
 
 /* Footer */
 
