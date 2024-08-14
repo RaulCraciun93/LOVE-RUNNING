@@ -334,6 +334,8 @@ main {
 
 #photos {
     line-height: 0;
+    font-size: 0;
+    gap: 0;
 }
 
 /* Footer */
