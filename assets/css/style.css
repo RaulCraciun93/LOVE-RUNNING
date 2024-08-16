@@ -333,7 +333,7 @@ main {
 /* Gallery page */
 #photo img {
     width: 100%;
-    line-break: 1em;
+    line-height: 1em;
 }
 
 #photos {
